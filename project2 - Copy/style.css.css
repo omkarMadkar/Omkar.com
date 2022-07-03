@@ -1,0 +1,261 @@
+.divsize{
+
+    width: 1509px;
+    height: 65px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+/*.paddingimage{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}*/
+
+.buttoneffect:hover{
+    box-shadow: 15px 15px 15px rgba(154, 154, 154, 0.847);
+}
+
+.margin:hover{
+    padding-left: 35px;
+    box-shadow: 15px 15px 15px rgba(154, 154, 154, 0.847);
+}
+
+.mar:hover{
+    padding-right: 20px;
+    padding-left: 35px;
+    box-shadow: 15px 15px 15px rgba(154, 154, 154, 0.847);
+}
+
+.boxshadow:hover{
+    box-shadow: 15px 15px 15px rgba(154, 154, 154, 0.847);
+}
+
+.marqueesize{
+    height: 35px;
+    width: 1200px;
+   
+    margin-bottom: 0.1px;
+    background-color: rgb(255, 255, 255);
+    padding-top: 5px;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Poppins', sans-serif;
+border-radius: 50px;
+}
+
+/*----------------head div size---------------------------------------*/
+.sectiononemargin{
+
+
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+
+.borderradius{
+    border-radius: 10px;
+}
+
+.one{
+
+    background-size: fit;
+    margin-left: 9px;
+    
+}
+
+
+
+.onesize{
+    height: 325px;
+    width: 268px;
+    margin-left: 40px;
+    cursor: pointer;
+    
+    
+    
+    
+
+}
+
+.twosize{
+
+
+    height: 325px;
+    width: 268px;
+    padding-left: 100px;
+    cursor: pointer;
+}
+
+
+.threesize{
+
+
+    height: 325px;
+    width: 268px;
+    padding-left: 90px; 
+    cursor: pointer;
+}
+
+
+.foursize{
+
+
+    height: 325px;
+    width: 268px;
+    padding-left: 100px; 
+    cursor: pointer;
+}
+
+/*----------------------------------------------------section one up-------------------------------------------------*/
+.sectiontwomargin{
+    margin-top: 50px;
+}
+
+
+.fivesize{
+
+
+    height: 325px;
+    width: 290px;
+    padding-left: 40px; 
+    cursor: pointer; 
+  
+}
+
+.sixsize{
+
+
+    height: 325px;
+    width: 280px;
+    padding-left: 85px; 
+    cursor: pointer;
+}
+
+.sevensize{
+
+
+    height: 325px;
+    width: 268px;
+    padding-left: 100px; 
+    cursor: pointer;
+}
+.eightsize{
+
+
+    height: 325px;
+    width: 268px;
+    padding-left: 110px; 
+    cursor: pointer;
+}
+
+/*--------------------------------------------------Bottom--------------------------------------------------------*/
+.section{
+    height: 900px;
+    
+}
+
+
+
+
+
+
+.bottomp1{
+
+    height: 50px;
+    width: 200px;
+    color: #fff;
+   padding: 45px;
+   
+   margin-bottom: 50px 0;
+   background-color: blue;
+}
+
+
+.video{
+margin-left: -53px;
+margin-right: -76px;
+
+}
+
+
+
+.bottomp2{
+
+    height: 70px;
+    width: 200px;
+    color: #fff;
+   padding: 45px;
+   
+   margin-bottom: 50px 0;
+   background-color: rgb(255, 255, 255);
+}
+
+.bottomp3{
+
+    height: 70px;
+    width: 200px;
+    color: #fff;
+   padding: 45px;
+   
+   margin-bottom: 50px 0;
+   background-color: blue;
+}
+
+/*------------------------------------------jjook*/
+.course-col:hover{
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+.course-col{
+    flex-basis: 50%;
+    box-shadow: 29px 31px 20px rgba(154, 154, 154, 0.847);
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0.5s;
+    margin-left: -63px;
+    margin-right: 6px;
+}
+
+
+
+.course{
+    width: 1400px;
+    margin:50px;
+    text-align: center;
+    padding-top: 40px;
+    border-radius: 20px;
+    
+
+
+}
+
+
+.row{
+
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+    transform: translate(129px,-42px);
+
+}
+
+.socialmedia{
+
+margin-right: 3px;
+margin-top: 1vh;
+padding-left: 65px;
+padding-right: 35px;
+
+}
+
+.lgo{
+    margin-left: 950px;
+    margin-right: 300px;
+    margin-top: -170px;
+    width: 500px;
+}
+
