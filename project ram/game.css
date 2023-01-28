@@ -1,0 +1,91 @@
+.button{
+
+margin-left: 20px;
+height: 50px;
+width: 80px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+.con{
+
+
+text-align: center;
+font-size: larger;
+font-weight: 1200;
+}
+
+
+.main{
+background-color: aquamarine;
+    height: 556px;
+    margin-left: -7px;
+    margin-right: -7px;
+    margin-top: -9px;
+}
+
+.left{
+
+   
+    
+    padding: 54px;
+    width: 203px;
+    height: 200px;
+}
+
+
+.right{
+
+
+
+    margin-left: 1166px;
+    width: 314px;
+    height: 292px;
+    margin-top: -196px;
+
+}
+
+.body{
+
+
+    background-color: aquamarine;
+
+}
+
+.btncheckbtn{
+
+  margin-top: 10px;
+  padding-left: 1px;
+  padding-top: 8px;
+ 
+}
+
+
+.guess{
+
+    width: 100px;
+    height: 100px;
+
+}
+
+.gamed{
+
+
+text-align: center;
+
+}
+
+.message{
+
+
+    font-size: larger;
+font-weight: 2000;
+}
+
+.label-score{
+
+
+    font-size: larger;
+font-weight: 1200;
+}
